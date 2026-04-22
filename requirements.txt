@@ -1,0 +1,17 @@
+# --- Data Manipulation ---
+pandas==2.2.3
+numpy==1.26.4
+
+# --- Visualisasi ---
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+
+# --- Format Parquet ---
+pyarrow==17.0.0
+
+# --- Notebook Environment ---
+jupyterlab==4.3.6
+ipykernel==6.29.5
