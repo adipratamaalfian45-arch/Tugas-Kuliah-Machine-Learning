@@ -8,6 +8,7 @@ seaborn==0.13.2
 
 # --- Machine Learning ---
 scikit-learn==1.5.2
+scikit-optimize==0.10.2
 
 # --- Format Parquet ---
 pyarrow==17.0.0

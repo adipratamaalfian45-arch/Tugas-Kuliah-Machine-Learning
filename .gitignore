@@ -1,7 +1,12 @@
 # Virtual Environment
+setup_env/
 myenv/
 venv/
 env/
+
+# ML Models & Scalers
+**/saved_models/
+*.pkl
 
 # Python cache
 __pycache__/
