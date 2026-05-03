@@ -39,3 +39,6 @@ dist/
 
 # Catboost model files 
 catboost_info/
+
+# Models
+models/
