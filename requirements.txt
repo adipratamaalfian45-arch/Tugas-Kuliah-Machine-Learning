@@ -9,6 +9,10 @@ seaborn==0.13.2
 # --- Machine Learning ---
 scikit-learn==1.5.2
 scikit-optimize==0.10.2
+xgboost==2.1.4
+lightgbm==4.5.0
+imbalanced-learn==0.12.4
+catboost==1.2.7
 
 # --- Format Parquet ---
 pyarrow==17.0.0
